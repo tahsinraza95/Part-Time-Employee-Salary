@@ -1,0 +1,14 @@
+C:\Users\dell\Lectures\Day4\Part Time Employee\Part Time Employee\bin\Debug\netcoreapp3.1\Part Time Employee.exe
+C:\Users\dell\Lectures\Day4\Part Time Employee\Part Time Employee\bin\Debug\netcoreapp3.1\Part Time Employee.deps.json
+C:\Users\dell\Lectures\Day4\Part Time Employee\Part Time Employee\bin\Debug\netcoreapp3.1\Part Time Employee.runtimeconfig.json
+C:\Users\dell\Lectures\Day4\Part Time Employee\Part Time Employee\bin\Debug\netcoreapp3.1\Part Time Employee.runtimeconfig.dev.json
+C:\Users\dell\Lectures\Day4\Part Time Employee\Part Time Employee\bin\Debug\netcoreapp3.1\Part Time Employee.dll
+C:\Users\dell\Lectures\Day4\Part Time Employee\Part Time Employee\bin\Debug\netcoreapp3.1\Part Time Employee.pdb
+C:\Users\dell\Lectures\Day4\Part Time Employee\Part Time Employee\obj\Debug\netcoreapp3.1\Part Time Employee.csproj.AssemblyReference.cache
+C:\Users\dell\Lectures\Day4\Part Time Employee\Part Time Employee\obj\Debug\netcoreapp3.1\Part Time Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Lectures\Day4\Part Time Employee\Part Time Employee\obj\Debug\netcoreapp3.1\Part Time Employee.AssemblyInfoInputs.cache
+C:\Users\dell\Lectures\Day4\Part Time Employee\Part Time Employee\obj\Debug\netcoreapp3.1\Part Time Employee.AssemblyInfo.cs
+C:\Users\dell\Lectures\Day4\Part Time Employee\Part Time Employee\obj\Debug\netcoreapp3.1\Part Time Employee.csproj.CoreCompileInputs.cache
+C:\Users\dell\Lectures\Day4\Part Time Employee\Part Time Employee\obj\Debug\netcoreapp3.1\Part Time Employee.dll
+C:\Users\dell\Lectures\Day4\Part Time Employee\Part Time Employee\obj\Debug\netcoreapp3.1\Part Time Employee.pdb
+C:\Users\dell\Lectures\Day4\Part Time Employee\Part Time Employee\obj\Debug\netcoreapp3.1\Part Time Employee.genruntimeconfig.cache
